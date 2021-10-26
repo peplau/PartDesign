@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\placeholder\PartDesign\part-design.yml
+ID: "bc5fd7a8-e067-4a3f-b4da-9142a6c25538"
+Parent: "809fd035-3084-4c1e-a4b1-c173829d5f72"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Feature/PartDesign/part-design"
+Signature: 5ba9QAokhJIkH3vLeH7trkarBuuGlwGZvNxhEhXZvEE=
+Modified: 637669823137381397
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\placeholder\PartDesign.yml
+ID: "809fd035-3084-4c1e-a4b1-c173829d5f72"
+Parent: "1b59149d-7ed3-4d58-86a9-32eded8c0368"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Feature/PartDesign
+Signature: QrK+JYalVSO95Lp2o9/p/XYSdPMEOaAlzcnUceTFUs8=
+Modified: 637669823137371385

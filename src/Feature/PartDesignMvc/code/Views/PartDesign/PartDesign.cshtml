@@ -1,0 +1,70 @@
+﻿@using Sitecore.Common
+@model Feature.PartDesign.Mvc.ViewModels.PartDesignViewModel
+@{
+  Layout = null;
+  var uniqueId = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.UniqueId;
+}
+
+@if (Sitecore.Context.PageMode.IsExperienceEditorEditing)
+{
+  @Html.Raw("<div class='part-design-block' id='partDesignBegin-" + uniqueId + "' style='background:yellow'>")
+
+  @*<div class="part-design-block" id="partDesignBegin-@(uniqueId)"></div>*@
+
+  <a href="@Model.EditButtonUrl">@Model.EditButtonLabel</a>
+
+  <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          partDesignSetup@(uniqueId.ToID().ToShortID())();
+        });
+
+        function partDesignSetup@(uniqueId.ToID().ToShortID())() {
+          debugger;
+          var begin = document.getElementById("partDesignBegin-@(uniqueId)");
+          //var end = document.getElementById("#partDesignEnd-@(uniqueId)");
+
+          // Remove all "sc-part-of" attribute
+          var partOfElements = begin.querySelectorAll('[sc-part-of]');
+          for (i = 0; i < partOfElements.length; i++) {
+            partOfElements[i].removeAttribute('sc-part-of')
+          }
+
+          // Remove all class "scEnabledChrome"
+          var chromeElements = begin.getElementsByClassName('scEnabledChrome');
+          [].forEach.call(chromeElements, function (el) {
+            el.classList.remove("scEnabledChrome");
+          });
+
+
+          //partDesignSetup(begin, end);
+          //setTimeout(partDesignSetup@(uniqueId.ToID().ToShortID()), 5000);
+        }
+  </script>
+
+  if (Context.Items["partDesign-loaded"] == null)
+  {
+    Context.Items["partDesign-loaded"] = true;
+    <text>
+      <script>
+        function partDesignSetup(begin, end) {
+          var beginRect = begin.getBoundingClientRect();
+          var endRect = end.getBoundingClientRect();
+          var height = endRect.top - beginRect.top;
+          begin.parent().css("position", "relative");
+          begin.css("height", Math.ceil(height) + "px");
+        }
+      </script>
+
+      <style>
+                /* To customize the partDesign look and feel, please do it in a separated CSS file */
+                .part-design-block {
+                  /*          background-color: rgba(0, 0, 0, 0.15);
+                  z-index: 9089;
+                  width: 100%;
+                  position: absolute;
+        */
+                }
+      </style>
+    </text>
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://cm.konabos.localho.st",
+      "authority": "https://id.konabos.localho.st",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkI3NDc2RDcwRkRBNkVGMzIxQ0U2REJGMDQ2RUY3ODA3NDUwQ0I0RDQiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJ0MGR0Y1AybTd6SWM1dHZ3UnU5NEIwVU10TlEifQ.eyJuYmYiOjE2MzEzODQzMjksImV4cCI6MTYzMTM4NzkyOSwiaXNzIjoiaHR0cHM6Ly9pZC5rb25hYm9zLmxvY2FsaG8uc3QiLCJhdWQiOlsiaHR0cHM6Ly9pZC5rb25hYm9zLmxvY2FsaG8uc3QvcmVzb3VyY2VzIiwic2l0ZWNvcmUucHJvZmlsZS5hcGkiXSwiY2xpZW50X2lkIjoiRGV2aWNlIiwic3ViIjoiZTViNTViYzM2Mjg1NGUzY2E3OTk0MWE0NjRkNDRkMmQiLCJhdXRoX3RpbWUiOjE2MzEwNjgzMzUsImlkcCI6ImxvY2FsIiwibmFtZSI6InNpdGVjb3JlXFxBZG1pbiIsImVtYWlsIjoiIiwiaHR0cDovL3d3dy5zaXRlY29yZS5uZXQvaWRlbnRpdHkvY2xhaW1zL2lzQWRtaW4iOiJUcnVlIiwic2NvcGUiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsicHdkIl19.l0_SJASaJ3E-oqdN_Pr2801ccFLR_cujJZ1rcrsUtc76vBEXovgqbkmxIP6HA3jm8R0k2L7VgQ8jw1qGRuDW8WxzYRNpfG_AYp6INcEv9OthQ8LXOOEYKZj8fWh4RkaCoi-H-l7-BYw4KcaPWt4HN4OFRwnYTsv3Ce2no2IISB36-g9VclJWFbYwswaUnpDYA0vw-OJaWwDXQZ6oFX87E1C15zaGcrBbo94mQfzswmryGcwL03iEEVOr1OlZACLVWXCylqom_eH3eQKiTyeUD4MuQnnF9qusqo0rP3cP-pktPl1P07Xv3WAthV2Y8vuaqbnPGDMIizUiyytrj8lPOg",
+      "refreshToken": "d152b788d48f9ec647d37b7107667c72e78dd07ec2fa703dab8addc3d2c109e4",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json"
+}

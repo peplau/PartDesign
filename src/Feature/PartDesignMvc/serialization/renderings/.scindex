@@ -1,0 +1,28 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\renderings\PartDesign.yml
+ID: "c240a2cd-bbe0-4c88-b33e-ce8f08429087"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/PartDesign
+Signature: u8+3EXmH18uRurXfrXrMdE8735l75lamxz/8v/hvNO0=
+Modified: 637669814988637684
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\renderings\PartDesign\Part Design End.yml
+ID: "ede387db-37ee-4fdb-9609-c9f59b0b9650"
+Parent: "c240a2cd-bbe0-4c88-b33e-ce8f08429087"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/PartDesign/Part Design End
+Signature: pRwYXuUyGNIUobfZAh58kSpC4YdBHsuGFOuUxbtABT8=
+Modified: 637669814988667706
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\renderings\PartDesign\Part Design.yml
+ID: "0897a26e-283c-4278-a78a-dd2112972cf1"
+Parent: "c240a2cd-bbe0-4c88-b33e-ce8f08429087"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/PartDesign/Part Design
+Signature: 2wt/+Z03spgekjHSb2pjj5VzK6kowfTZQGSSiK4xC1s=
+Modified: 637669821981795203

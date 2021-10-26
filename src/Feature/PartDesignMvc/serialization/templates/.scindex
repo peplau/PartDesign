@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\templates\PartDesign.yml
+ID: "681c72fa-cddc-47c0-ab39-e9e56bdb1eb8"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/PartDesign
+Signature: AUN9f4xfV2hbLEYFJPMqAI5AqoPA8egQcYKcvtlIKQE=
+Modified: 637669820317900790
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\templates\PartDesign\PartDesign Folder.yml
+ID: "c8ae022c-5002-440f-865c-ccaf1812c3d6"
+Parent: "681c72fa-cddc-47c0-ab39-e9e56bdb1eb8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/PartDesign/PartDesign Folder
+Signature: L5PXWKWVhKRcA1/LjGAmjDxnRIPE2jTCYu5FzREK4b8=
+Modified: 637669820317940475
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\templates\PartDesign\PartDesign.yml
+ID: "734d282b-81dd-484b-879c-3e59aa4d946b"
+Parent: "681c72fa-cddc-47c0-ab39-e9e56bdb1eb8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/PartDesign/PartDesign
+Signature: b6iQ6zKk+jrTsAqz8FMkJLlARKJeKDpG3jWDFGK61sg=
+Modified: 637669820317920467
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\templates\PartDesign\PartDesign\__Standard Values.yml
+ID: "81611d44-9975-43c8-ad87-732aa39117b2"
+Parent: "734d282b-81dd-484b-879c-3e59aa4d946b"
+Template: "734d282b-81dd-484b-879c-3e59aa4d946b"
+Path: /sitecore/templates/Feature/PartDesign/PartDesign/__Standard Values
+Signature: KcM42dzdYaj1c8QJWrYYverVsDiQ5ElGQE+F90VnUjo=
+Modified: 637669820317950423
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\templates\PartDesign\PartDesign Folder\__Standard Values.yml
+ID: "49f36cb8-0f37-4fa4-9ca1-7b1e276887cd"
+Parent: "c8ae022c-5002-440f-865c-ccaf1812c3d6"
+Template: "c8ae022c-5002-440f-865c-ccaf1812c3d6"
+Path: /sitecore/templates/Feature/PartDesign/PartDesign Folder/__Standard Values
+Signature: x6YBv2Geime7sayHR8x9ItY2oV4h1ePfPhgGTTxgYWg=
+Modified: 637669820317970451

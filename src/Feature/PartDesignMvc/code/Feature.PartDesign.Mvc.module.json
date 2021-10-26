@@ -1,0 +1,29 @@
+{
+  "namespace": "Feature.PartDesign.Mvc.Serialization",
+  "references": "",
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/PartDesign"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/PartDesign"
+      },
+      {
+        "name": "layout",
+        "path": "/sitecore/layout/Layouts/Feature/PartDesign"
+      },
+      {
+        "name": "placeholder",
+        "path": "/sitecore/layout/Placeholder Settings/Feature/PartDesign"
+      },
+      {
+        "name": "customExperienceButtons",
+        "path": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/PartDesign",
+        "database": "core"
+      }
+    ]
+  }
+}

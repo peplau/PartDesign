@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\customExperienceButtons\PartDesign\Edit PartDesign.yml
+ID: "06fa4d08-23aa-4aec-b3c5-1ff69651f543"
+Parent: "48b35c32-2f5c-4591-93be-e2e8c3d4e943"
+Template: "02404208-46d4-49bf-988b-eb363a52a1c9"
+Path: /sitecore/content/Applications/WebEdit/Custom Experience Buttons/PartDesign/Edit PartDesign
+Signature: 1Wbdm5SYqqVgB9nUE/QGguGQKYlCOjM0E+P/CeJTaDQ=
+Modified: 637669814985979602
+---
+File: |
+  D:\Docs\Research\PartDesign\PartDesign\src\Feature\PartDesignMvc\serialization\customExperienceButtons\PartDesign.yml
+ID: "48b35c32-2f5c-4591-93be-e2e8c3d4e943"
+Parent: "db662edf-5965-4848-ad14-ba6bf0d55d1e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Applications/WebEdit/Custom Experience Buttons/PartDesign
+Signature: 4mRj8y3pyHvnEbMHUJ5pssc6xKzd8univOBJdGpzo64=
+Modified: 637669814985932906

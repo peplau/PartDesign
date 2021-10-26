@@ -1,0 +1,6 @@
+﻿@model Feature.PartDesign.Mvc.ViewModels.PartDesignEndViewModel
+@if (Sitecore.Context.PageMode.IsExperienceEditorEditing)
+{
+  <div class="part-design-end" id="partDesignEnd-@Model.PartDesignId"></div>
+  @Html.Raw("</div>")
+}
