@@ -1,5 +1,4 @@
 # Sitecore PartDesign
-
 Sitecore PartDesign provides to any vanilla Siteocore XM/XP, with the same functionalities of [SXA's Partial Design](https://doc.sitecore.com/en/developers/sxa/101/sitecore-experience-accelerator/partial-designs.html): from WYSIWYG to content testing and personalization. 
 
  1. Create complex and reusable design elements quickly;
@@ -8,3 +7,15 @@ Sitecore PartDesign provides to any vanilla Siteocore XM/XP, with the same funct
 
 You can create and update a PartDesign in a very similar way as it's [done with SXA](https://doc.sitecore.com/en/developers/sxa/17/sitecore-experience-accelerator/create-and-change-a-partial-design.html), 
 
+## How it works
+
+
+
+## Installation
+
+## Configuration (Optional)
+
+### asasasa
+
+
+aaaaaaaaaa
