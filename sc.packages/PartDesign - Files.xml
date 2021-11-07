@@ -1,0 +1,47 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>PartDesign - Files</PackageName>
+      <Author>Rodrigo Peplau</Author>
+      <Version>1.0</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xfiles>
+      <Entries>
+        <x-item>/App_Config/Include/Feature/Feature.PartDesign.Mvc.config</x-item>
+        <x-item>/bin/Feature.PartDesign.Mvc.dll</x-item>
+        <x-item>/Views/PartDesign/Error.cshtml</x-item>
+        <x-item>/Views/PartDesign/PartDesign.cshtml</x-item>
+        <x-item>/Views/PartDesign/PartDesignEnd.cshtml</x-item>
+        <x-item>/Views/PartDesign/PartDesignLayout.cshtml</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

@@ -1,0 +1,104 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>PartDesign - Content</PackageName>
+      <Author>Rodrigo Peplau</Author>
+      <Version>1.0</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/templates/Feature/PartDesign/{681C72FA-CDDC-47C0-AB39-E9E56BDB1EB8}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Feature/PartDesign/PartDesign Folder/__Standard Values/{49F36CB8-0F37-4FA4-9CA1-7B1E276887CD}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Feature/PartDesign/PartDesign Folder/{C8AE022C-5002-440F-865C-CCAF1812C3D6}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Feature/PartDesign/PartDesign/__Standard Values/{81611D44-9975-43C8-AD87-732AA39117B2}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Feature/PartDesign/PartDesign/{734D282B-81DD-484B-879C-3E59AA4D946B}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Templates</Name>
+    </xitems>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/layout/Renderings/Feature/PartDesign/{C240A2CD-BBE0-4C88-B33E-CE8F08429087}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Feature/PartDesign/Part Design End/{EDE387DB-37EE-4FDB-9609-C9F59B0B9650}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Feature/PartDesign/Part Design/{0897A26E-283C-4278-A78A-DD2112972CF1}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Renderings</Name>
+    </xitems>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/layout/Layouts/Feature/PartDesign/{943AAB7F-FA59-4980-9B6D-3B6E0815D5A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Layouts/Feature/PartDesign/PartDesign Layout/{344A3E58-62CE-4153-9A64-7C9F88EAC36E}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Layout</Name>
+    </xitems>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/layout/Placeholder Settings/Feature/PartDesign/{809FD035-3084-4C1E-A4B1-C173829D5F72}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Placeholder Settings/Feature/PartDesign/part-design/{BC5FD7A8-E067-4A3F-B4DA-9142A6C25538}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Placeholder</Name>
+    </xitems>
+    <xitems>
+      <Entries />
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Custom XP button</Name>
+    </xitems>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

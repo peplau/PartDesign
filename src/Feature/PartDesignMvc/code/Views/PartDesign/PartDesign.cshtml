@@ -7,9 +7,7 @@
 
 @if (Sitecore.Context.PageMode.IsExperienceEditorEditing)
 {
-  @Html.Raw("<div class='part-design-block' id='partDesignBegin-" + uniqueId + "' style='background:yellow'>")
-
-  @*<div class="part-design-block" id="partDesignBegin-@(uniqueId)"></div>*@
+  @Html.Raw("<div class='part-design-block' id='partDesignBegin-" + uniqueId + "'")
 
   <a href="@Model.EditButtonUrl">@Model.EditButtonLabel</a>
 
@@ -21,7 +19,6 @@
         function partDesignSetup@(uniqueId.ToID().ToShortID())() {
           debugger;
           var begin = document.getElementById("partDesignBegin-@(uniqueId)");
-          //var end = document.getElementById("#partDesignEnd-@(uniqueId)");
 
           // Remove all "sc-part-of" attribute
           var partOfElements = begin.querySelectorAll('[sc-part-of]');
@@ -34,10 +31,6 @@
           [].forEach.call(chromeElements, function (el) {
             el.classList.remove("scEnabledChrome");
           });
-
-
-          //partDesignSetup(begin, end);
-          //setTimeout(partDesignSetup@(uniqueId.ToID().ToShortID()), 5000);
         }
   </script>
 
@@ -56,14 +49,14 @@
       </script>
 
       <style>
-                /* To customize the partDesign look and feel, please do it in a separated CSS file */
-                .part-design-block {
-                  /*          background-color: rgba(0, 0, 0, 0.15);
-                  z-index: 9089;
-                  width: 100%;
-                  position: absolute;
-        */
-                }
+        /* To customize the partDesign look and feel, please do it in a separated CSS file */
+        .part-design-block {
+          /*          background-color: rgba(0, 0, 0, 0.15);
+          z-index: 9089;
+          width: 100%;
+          position: absolute;
+          */
+        }
       </style>
     </text>
   }
