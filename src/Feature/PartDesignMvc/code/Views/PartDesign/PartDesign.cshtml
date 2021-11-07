@@ -9,7 +9,7 @@
 {
   @Html.Raw("<div class='part-design-block' id='partDesignBegin-" + uniqueId + "'>")
 
-  <a href="@Model.EditButtonUrl">@Model.EditButtonLabel</a>
+  <a href="@Model.EditButtonUrl" class="btn btn-warning">@Model.EditButtonLabel</a>
 
   <script>
         document.addEventListener("DOMContentLoaded", function () {
@@ -17,7 +17,6 @@
         });
 
         function partDesignSetup@(uniqueId.ToID().ToShortID())() {
-          debugger;
           var begin = document.getElementById("partDesignBegin-@(uniqueId)");
 
           // Remove all "sc-part-of" attribute
