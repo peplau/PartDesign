@@ -50,8 +50,14 @@ The same PartDesign can later be easily added to multiple pages:
 ### Adding a PartDesign to a page:
 1. Add the **/sitecore/layout/Renderings/Feature/PartDesign/Part Design** rendering to any of your placeholders
 ![PartDesign Rendering added to a page](documentation/images/PartDesign-Rendering.jpg?raw=true)
-2. Select the PartDesign created in the previous section as Datasource of the PartDesign you just added
+
+2. Select the PartDesign created in the previous section as the Datasource of the PartDesign you just added
 3. Save the page
+
+### Editing the PartDesign:
+While editing a page that has a PartDesign in Experience Editor, components injected by the PartDesign are not directly editable. Instead, you must edit the PartDesign itself, which can be conviniently made by clicking the link "Edit PartDesign"
+
+![PartDesign in XP](documentation/images/PartDesign-edit-XP.jpg?raw=true)
 
 
 ## Configuration (Optional)
