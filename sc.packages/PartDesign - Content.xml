@@ -73,24 +73,21 @@
       <SkipVersions>False</SkipVersions>
       <Converter>
         <ItemToEntryConverter>
-          <Transforms />
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
         </ItemToEntryConverter>
       </Converter>
       <Include />
       <Exclude />
       <Name>Placeholder</Name>
-    </xitems>
-    <xitems>
-      <Entries />
-      <SkipVersions>False</SkipVersions>
-      <Converter>
-        <ItemToEntryConverter>
-          <Transforms />
-        </ItemToEntryConverter>
-      </Converter>
-      <Include />
-      <Exclude />
-      <Name>Custom XP button</Name>
     </xitems>
   </Sources>
   <Converter>
