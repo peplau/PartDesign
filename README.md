@@ -62,9 +62,32 @@ While editing a page that has a PartDesign in Experience Editor, components inje
 
 ## Configuration (Optional)
 
-To make the 
+To make the module usage more convenient, you can apply the following customizations:
 
-### asasasa
+### A) Create a folder to store all your PartDesigns
 
+Create a folder using the template **/sitecore/templates/Feature/PartDesign/PartDesign Folder**. This template already comes with Insert Options configured to create PartDesign Datasource Items, or more folders.
 
-aaaaaaaaaa
+### B) Add your PartDesign folder to the Rendering
+
+To make the selection of PartDesigns more user-friendly, add the folder path created in the previous step to the field **Datasource Location** of the rendering **/sitecore/layout/Renderings/Feature/PartDesign/Part Design**
+
+![PartDesign Rendering - Datasource Location](documentation/images/PartDesign-Rendering_Update.jpg?raw=true)
+
+### C) Add the PartDesign Rendering to your Placeholder(s) Settings
+
+To make the visual selection of the PartDesign rendering more convenient, add it to your Placeholder(s) Setting:
+
+![PartDesign added to placeholder](documentation/images/PartDesign-added-to-placeholder.jpg?raw=true)
+
+### D) Add your components to the PartDesign Placeholder Settings
+
+To make more convenient the addition of custom inside your PartDesign, add your components to the PartDesign Placeholder Settings, located under **/sitecore/layout/Placeholder Settings/Feature/PartDesign/part-design**:
+
+![PartDesign added to placeholder](documentation/images/PartDesign-placeholder-settings.jpg?raw=true)
+
+### E) Add your CSS and JS files to the PartDesign Layout
+
+You can add your CSS and JS files to the PartDesign Layout, by modifying the file located under **\Views\PartDesign\PartDesignLayout.cshtml**. This will make the visual edition more natural and user-friendly, as it will look and behave exactly as in the original page.
+
+![PartDesign layout modifications](documentation/images/PartDesign-Layout.jpg?raw=true)
