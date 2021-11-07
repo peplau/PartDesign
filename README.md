@@ -8,8 +8,16 @@ Sitecore **PartDesign** provides to any **Vanilla Siteocore XM/XP**, with the sa
 You can create and update a PartDesign in a very similar way as it's [done with SXA](https://doc.sitecore.com/en/developers/sxa/17/sitecore-experience-accelerator/create-and-change-a-partial-design.html), 
 
 ### Author
-![enter image description here](/documentation/images/Eu - Mini.jpeg)
-Rodrigo Peplau is on [Twitter](https://twitter.com/SitecoreSinger), [LinkedIn](https://www.linkedin.com/in/rodrigopeplau/), Facebook, Slack and other channels!
+<img src="documentation/images/Eu%20-%20Mini.jpeg" alt="Rodrigo Peplau" width="170" align="left">
+
+**Rodrigo Peplau** is on:
+
+[Twitter](https://twitter.com/SitecoreSinger) <br/>
+[LinkedIn](https://www.linkedin.com/in/rodrigopeplau/) <br/>
+Facebook <br/>
+Slack <br/>
+
+and other channels...
 
 ## How it works
 Very 
