@@ -2,7 +2,7 @@
 
 ![PartDesign Banner](documentation/images/PartDesign-Banner.jpg?raw=true)
 
-Sitecore **PartDesign** provides to any **Vanilla Siteocore XM/XP**, with the same functionalities of [SXA's Partial Design](https://doc.sitecore.com/en/developers/sxa/101/sitecore-experience-accelerator/partial-designs.html): 
+Sitecore **PartDesign** provides to any **Vanilla Sitecore XM/XP**, with the same functionalities of [SXA's Partial Design](https://doc.sitecore.com/en/developers/sxa/101/sitecore-experience-accelerator/partial-designs.html): 
 
  1. Create complex and reusable design elements quickly
  2. Visual content edition experience with Experince Editor
