@@ -84,7 +84,7 @@ To make the visual selection of the PartDesign rendering more convenient, add it
 
 ### D) Add your components to the PartDesign Placeholder Settings
 
-To make more convenient the addition of custom inside your PartDesign, add your components to the PartDesign Placeholder Settings, located under **/sitecore/layout/Placeholder Settings/Feature/PartDesign/part-design**:
+To make more convenient the addition of custom componentsboa inside your PartDesign, add your components to the PartDesign Placeholder Settings, located under **/sitecore/layout/Placeholder Settings/Feature/PartDesign/part-design**:
 
 ![PartDesign added to placeholder](documentation/images/PartDesign-placeholder-settings.jpg?raw=true)
 
